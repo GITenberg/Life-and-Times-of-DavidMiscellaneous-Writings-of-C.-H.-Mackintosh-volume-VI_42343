@@ -1,0 +1,27 @@
+_repo: Life-and-Times-of-DavidMiscellaneous-Writings-of-C.-H.-Mackintosh-volume-VI_42343
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42343-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Mackintosh, Charles Henry
+    birthdate: 1820
+    deathdate: 1896
+    gutenberg_agent_id: '39129'
+    url: http://www.gutenberg.org/2009/agents/39129
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Henry_Mackintosh
+description: ''
+gutenberg_issued: '2013-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42343'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theology'
+- !lcc 'BR'
+title: Life and Times of David. Miscellaneous Writings of C. H. Mackintosh, vol. VI
+url: http://www.gutenberg.org/ebooks/42343
